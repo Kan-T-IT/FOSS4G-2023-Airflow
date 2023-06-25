@@ -27,5 +27,5 @@ docker compose up
 
 ## Additional configuration
 This compose, by default, sets the passwords contained in the .env file. To change them, modify this file.
-Also, it serves the webserver in localhost:80
+Also, it serves the webserver in localhost:80 <br><br>
 it can be edited in the ports section of the webserver (line 120 of docker-compose.yaml)
